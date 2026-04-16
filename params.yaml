@@ -1,3 +1,4 @@
+retrain: True
 index_col: 'customer_id'
 target_col: 'target'
 one_hot_drop: 'if_binary'
